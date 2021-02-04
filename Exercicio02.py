@@ -1,4 +1,4 @@
-# Crie uma função que receba a quantidade de linhas e de colunas que o computador deve imprimir com o 
+# QUESTÃO 02 - Crie uma função que receba a quantidade de linhas e de colunas que o computador deve imprimir com o 
 # caractere *. Exemplo. Se receber 3 e 4, deve ser impresso:
 #
 # ****
