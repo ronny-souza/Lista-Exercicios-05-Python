@@ -1,4 +1,4 @@
-# Crie uma função que receba do usuário a base (b) e o expoente ​(n), e calcule e retorne ​b​^n.
+# QUESTÃO 03 - Crie uma função que receba do usuário a base (b) e o expoente ​(n), e calcule e retorne ​b​^n.
 
 def calculoPotencia(base, expoente):
     return base**expoente
